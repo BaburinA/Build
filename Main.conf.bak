@@ -1,0 +1,24 @@
+Release = 												1.60.0
+DestinationPath = 										E:\Temp
+
+OT.OScript|Module.mtintegration_16_0_0 =                false
+OT.OScript|Module.mtutils_16_0_0 =                      false
+OT.OScript|Module.mtwebui_16_0_0 =                      false
+
+OT.Net|Services.BEDOpenTextIntegration =                false
+OT.Net|Services.BEDRegularTasks =                       false
+OT.Net|Services.DBMSOpenTextIntegration =               false
+OT.Net|Services.EVOOpenTextFileSharing =                false
+OT.Net|Services.KISOpenTextIntegrationService =         false
+OT.Net|Services.Notifier =                              false
+OT.Net|Services.OneSOpenTextIntegrationService =        false
+OT.Net|Services.OpenTextDBMSFileSharing =               false
+OT.Net|Services.OpenTextEVOGateWay =                    false
+OT.Net|Services.OpenTextEVOSendCOZData =                false
+OT.Net|Services.OpenTextEVOSendDocumentSets =           false
+OT.Net|Services.OpenTextEVOSendStatuses =               false
+OT.Net|Services.OpenTextKISGateWay =                    false
+OT.Net|Services.OpenTextSAPGateWay =                    false
+OT.Net|Services.RegularTasks =                          false
+OT.Net|Services.SAPOpenTextIntegration =                false
+OT.Net|Services.SAPRegularTasks =                       false

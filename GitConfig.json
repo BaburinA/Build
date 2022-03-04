@@ -1,0 +1,159 @@
+﻿{
+	"GitUrl": "git@gitlab.magnit.ru",
+	"GitLog": "Control.log",
+	"GitLocalPath": "E:\\Git",
+	"Groups": [
+		{
+			"Name": "EVO",
+			"Repositories": [
+				{
+					"Name": "evo-admin-ui",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-bdsm-service",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-bpmn-constructor-model",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-bpmn-service",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-client-util",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-database-model",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-docstore-image-compress-service",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-docstore-service",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-edo-service",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-esb-core",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-esb-service",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-ext-db",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-file-uploader",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-kernel-service",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-kis",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-monitoring-service",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-notification-service",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-orders-service",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-scan-service",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "evo-staff-loader",
+					"Branch": "master_build"
+				}
+			]
+		},
+		{
+			"Name": "Kofax",
+			"Repositories": [
+				{
+					"Name": "sed-kfx-capture",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "sed-kfx-insight",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "sed-kfx-ktm",
+					"Branch": "master_build"
+				}
+			]
+		},
+		{
+			"Name": "MPSH",
+			"Repositories": [
+				{
+					"Name": "cashbox-adapter",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "common-entity-oracle",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "common-entity-postgre",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "common-multibus",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "ext-check-service",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "facade-backend",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "logger-service",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "multibus",
+					"Branch": "master_build"
+				},
+				{
+					"Name": "sap-cashbox-adapter",
+					"Branch": "master_build"
+				}
+			]
+		},
+		{
+			"Name": "OT",
+			"Repositories": [
+				{
+					"Name": "sed-ot",
+					"Branch": "master_build"
+				}
+			]
+		}
+	]
+}

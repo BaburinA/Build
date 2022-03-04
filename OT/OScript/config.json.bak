@@ -1,0 +1,23 @@
+{
+	"Settings": 
+	{
+		"LogPath": "E:\\Git\\Common\\sed-common\\Build\\Logs",
+		"Source_code_Path": "E:\\Git\\OT\\sed-ot\\OpenText\\srcmodules",
+		"OT_Path": "E:\\app\\OPENTEXT",
+		"Build_Path": "E:\\Artifacts\\Releases",
+		"Module_Path": "OT\\module",
+		"Support_Path": "OT\\support"
+	},
+	"Module": 
+	{
+		"mtintegration_16_0_0": {
+			"Enable": false
+		},
+		"mtutils_16_0_0": {
+			"Enable": false
+		},
+		"mtwebui_16_0_0": {
+			"Enable": true
+		}
+	}
+}
